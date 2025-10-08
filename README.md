@@ -1,6 +1,6 @@
 # 🎮 Site Promocional — Super Mario Bros  
 
-Projeto desenvolvido durante o curso da **Descomplica** em parceria com o **Nubank**, como parte de um mini projeto prático de front-end.  
+Projeto desenvolvido durante o curso da **Devemdobro**, como parte de um mini projeto prático de front-end.  
 O objetivo foi criar um **site de divulgação do filme Super Mario Bros**, permitindo que o usuário conheça a sinopse e assista ao trailer diretamente na página.
 
 ---
@@ -28,26 +28,24 @@ Este projeto tem foco em HTML, CSS e conceitos básicos de design responsivo e a
 ---
 
 ## 📁 Estrutura do Projeto  
-.vscode/
-└── settings.json
 
 projeto-mario/
-├── src/
-│ ├── css/
+├──📁 src/
+│ ├──📁 css/
 │ │ ├── reset.css
 │ │ ├── responsivo.css
 │ │ └── style.css
 │ │
-│ ├── imagens/
+│ ├──📁 imagens/
 │ │ ├── favicon.ico
 │ │ ├── logo-chapeu-mario.png
 │ │ ├── super-mario-chars.png
 │ │ └── titulo.png
 │ │
-│ ├── js/
+│ ├──📁 js/
 │ │ └── index.js
 │ │
-│ ├── video/
+│ ├──📁 video/
 │ │ └── video-mario.mp4
 │ │
 │ └── index.html
