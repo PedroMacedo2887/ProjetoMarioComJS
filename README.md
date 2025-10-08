@@ -28,11 +28,40 @@ Este projeto tem foco em HTML, CSS e conceitos básicos de design responsivo e a
 ---
 
 ## 📁 Estrutura do Projeto  
+.vscode/
+└── settings.json
 
+projeto-mario/
+├── src/
+│ ├── css/
+│ │ ├── reset.css
+│ │ ├── responsivo.css
+│ │ └── style.css
+│ │
+│ ├── imagens/
+│ │ ├── favicon.ico
+│ │ ├── logo-chapeu-mario.png
+│ │ ├── super-mario-chars.png
+│ │ └── titulo.png
+│ │
+│ ├── js/
+│ │ └── index.js
+│ │
+│ ├── video/
+│ │ └── video-mario.mp4
+│ │
+│ └── index.html
+│
+└── LEIA-ME.md
 
+---
 
+## 💡 Funcionalidades  
 
-
+✅ Exibição do banner principal com personagens  
+✅ Botão para assistir ao trailer do filme  
+✅ Layout adaptável a diferentes resoluções de tela  
+✅ Código limpo, semântico e fácil de manter  
 
 
 Projeto de elaboração de uma pagina para divulgação do no filme do Mario, projeto elaborado com o devemdobro.
